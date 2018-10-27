@@ -1,2 +1,2 @@
-# learn-typescript
+# hello-project
 typescript hello world
