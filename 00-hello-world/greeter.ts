@@ -5,3 +5,5 @@ function greeter(person: string) {
 let user = "Jane User";
 
 document.body.innerHTML = greeter(user);
+
+export { };
