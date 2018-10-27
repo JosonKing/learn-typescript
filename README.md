@@ -1,2 +1,7 @@
-# learn-typescript
-typescript hello world
+# 
+
+# [TypeScript](https://www.tslang.cn/)
+
+## [5分钟上手TypeScript](https://www.tslang.cn/docs/handbook/typescript-in-5-minutes.html)
+
+
